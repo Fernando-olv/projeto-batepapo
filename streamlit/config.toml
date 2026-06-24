@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#F0F2F6" # Cor dos botões, sliders e elementos interativos
+backgroundColor = "#FFFFFF" # Cor de fundo do corpo principal do app
+secondaryBackgroundColor = "#8098B5" # Cor de fundo da barra lateral e caixas de entrada
+textColor = "#00336A"             # Cor dos textos principais
+font = "arial"   
