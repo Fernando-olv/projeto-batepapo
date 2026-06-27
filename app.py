@@ -34,7 +34,6 @@ def adicionar_mensagem(username, mensagem): #Adicionar mensagem a lista de mensa
                          "mensagem":mensagem})
     
     salvar_mensagens(mensagens)
-    
 
 
 st.title("**Chat Público**")
